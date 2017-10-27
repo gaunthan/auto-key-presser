@@ -36,6 +36,6 @@ So if you wanna send 'Ctrl + V', just type these text on the bar and then click 
 
 As the following screenshot shows:
 
-![](send-ctrl-v.png)
+![](./Screenshots/send-ctrl-v.png)
 
 Visit [this link](https://msdn.microsoft.com/en-us/library/system.windows.forms.sendkeys(v=vs.110).aspx) for more informations.
